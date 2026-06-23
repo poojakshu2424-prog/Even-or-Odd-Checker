@@ -1,0 +1,45 @@
+ 1. Project Title
+
+**Even or Odd Number Checker using Python**
+
+ Aim
+
+To design a Python program that allows the user to input a number and determine whether it is Even or Odd, and display the result clearly.
+
+# 3. Problem Statement
+
+To create a Python program that checks whether a given number is Even or Odd using conditional statements and functions.
+
+# 4. Objectives
+
+* To check whether a number is Even or Odd using Python.
+* To use functions and conditional statements in a program.
+* To improve logical thinking in programming.
+* To understand the use of the modulo operator (%).
+
+# 5. Tools Used
+
+* Python 3
+* VS Code / IDLE
+
+# 6. Description
+
+This project allows the user to enter a number and checks whether it is Even or Odd. The program uses a function to perform the checking operation. Functions help make the code organized, reusable, and easy to understand.
+
+# 7. Algorithm
+
+1. Start the program.
+2. Read a number from the user.
+3. Call the function `check_even_odd(num)`.
+4. If `num % 2 == 0`, return "Even".
+5. Otherwise, return "Odd".
+6. Display the result.
+7. Stop the program.
+  
+# 10. Result
+
+The Python program successfully checks whether the entered number is Even or Odd and displays the correct result.
+
+# 11. Conclusion
+
+This project demonstrates how Python can be used to determine whether a number is Even or Odd using functions and conditional statements. It helps in understanding basic programming concepts such as user input, functions, conditional logic, and the modulo operator (%).
